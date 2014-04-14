@@ -23,6 +23,7 @@
     "url": "https://github.com/markle976/SuperTetris/issues"
   },
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~0.9.16",
+    "express": "~3.3.5"
   }
 }
